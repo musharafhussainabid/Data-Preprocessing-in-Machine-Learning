@@ -1,4 +1,4 @@
-# Data-Preprocessing-in-Machine-Learning
+# Importing Dataset and Getting Basic Insights
 One of the first steps in any data analysis or machine learning project is importing a dataset and understanding its structure. This foundational step helps us uncover the dataset’s characteristics and guides us in preprocessing and feature engineering. In this blog, I’ll walk you through the process of loading a dataset and extracting basic insights from it.
 
 # Importing Libraries
